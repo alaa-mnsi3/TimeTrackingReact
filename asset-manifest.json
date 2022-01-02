@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TimeTrackingReact/static/css/main.27748fb4.css",
+    "main.js": "/TimeTrackingReact/static/js/main.b5988b31.js",
+    "static/js/787.cfd8f164.chunk.js": "/TimeTrackingReact/static/js/787.cfd8f164.chunk.js",
+    "static/media/image-jeremy.png": "/TimeTrackingReact/static/media/image-jeremy.71cd41f11bee24c1ded3.png",
+    "static/media/icon-exercise.svg": "/TimeTrackingReact/static/media/icon-exercise.3e7b028289414a132318.svg",
+    "static/media/icon-social.svg": "/TimeTrackingReact/static/media/icon-social.64be0c18d185740e487b.svg",
+    "static/media/icon-study.svg": "/TimeTrackingReact/static/media/icon-study.1f0a65e457bfa6398827.svg",
+    "static/media/icon-play.svg": "/TimeTrackingReact/static/media/icon-play.e8d4e5699b0e441f8baf.svg",
+    "index.html": "/TimeTrackingReact/index.html",
+    "static/media/icon-work.svg": "/TimeTrackingReact/static/media/icon-work.a3f124e593ab45ba795f.svg",
+    "static/media/icon-self-care.svg": "/TimeTrackingReact/static/media/icon-self-care.a161aff589038fc7ce09.svg",
+    "main.27748fb4.css.map": "/TimeTrackingReact/static/css/main.27748fb4.css.map",
+    "main.b5988b31.js.map": "/TimeTrackingReact/static/js/main.b5988b31.js.map",
+    "787.cfd8f164.chunk.js.map": "/TimeTrackingReact/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27748fb4.css",
+    "static/js/main.b5988b31.js"
+  ]
+}
