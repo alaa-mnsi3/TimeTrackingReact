@@ -1,5 +1,4 @@
 import React,{useContext} from 'react'
-import Data from '../../data.json';
 import { ContextBtn } from '../Card/Card';
 import './Toggle.css'
 
