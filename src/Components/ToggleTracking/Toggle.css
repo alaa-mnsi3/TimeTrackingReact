@@ -1,0 +1,45 @@
+.Toggle
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: transparent;
+    padding: 1rem;
+    width: 100%;
+}
+
+button
+{
+    margin-bottom: 1rem;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font: 600 .7rem sans-serif;
+    color: rgb(155, 154, 154);
+}
+
+button.active ,button:hover , button:active
+{
+    color: #fff;
+}
+button:last-of-type
+{
+    margin-bottom: .5rem;
+}
+@media only screen and (max-width:900px) {
+    .Toggle
+    {
+        flex-direction: row;
+    }
+    button
+    {
+        margin-right: 1rem;
+        margin-bottom: 0;
+    }
+    button:last-of-type
+    {
+        margin-right: 0;
+    }
+}
