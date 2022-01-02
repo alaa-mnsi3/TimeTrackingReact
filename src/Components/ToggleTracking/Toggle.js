@@ -8,9 +8,6 @@ function Toggle() {
     function handleClick(e)
     {
         setToggleFl(e.target.value)
-        setDaily(false)
-        setMonthly(false)
-        setWeekly(false)
         if(e.target.value==='Daily')
         {
             setDaily(true)

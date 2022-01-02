@@ -15,8 +15,14 @@ function Card() {
         localStorage.setItem('Daily',Daily)
         localStorage.setItem('Weekly',Weekly)
         localStorage.setItem('Monthly',Monthly)
-    },[Daily,Monthly,Weekly])
-   
+    },[Daily,Monthly,Weekly,ToggleFl])
+    useEffect(()=>
+    {
+        setDaily(false)
+        setMonthly(false)
+        setWeekly(false)
+        setToggleFl('Daily')
+    },[])
     return (
         <ContextBtn.Provider value={({
         'Daily':Daily,
